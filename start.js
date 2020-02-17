@@ -1,4 +1,4 @@
-const START = 1597449600000;
+const START = 1597446000000;
 const DIV_TIME = document.getElementById('time');
 
 function converter(timeLeft) {
